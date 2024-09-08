@@ -1,2 +1,2 @@
 # Machine_Learning_Assignment1_Sondre_Solbakken
-Code for my assignment
+This is the entire code i made to finish the tasks given in this assignment. I read and modified the csv file SpotifyFeatures.csv for use of supervised machine learning and logistic regression. I have used the dataset to check accuracy of the model i made in the code and to visualize the datapoints we are working with and to train the model with pattern recognition. 
