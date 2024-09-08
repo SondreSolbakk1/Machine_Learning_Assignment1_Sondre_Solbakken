@@ -1,0 +1,2 @@
+# Machine_Learning_Assignment1_Sondre_Solbakken
+Code for my assignment
